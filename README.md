@@ -1,5 +1,5 @@
 # Password Generator Web Application
-![Password Generator Screenshot](./path-to-your-image.png)
+![Password Generator Screenshot](https://raw.githubusercontent.com/Nitin-M-1/Strong-Password-Generator/refs/heads/master/public/image.png)
 
 
 ## Overview
